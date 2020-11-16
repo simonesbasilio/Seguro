@@ -1,0 +1,22 @@
+[1114/001542.363:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1115/110355.675:ERROR:process_reader_win.cc(188)] ResumeThread: Parâmetro incorreto. (0x57)
+[1115/110355.677:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.677:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.678:ERROR:process_reader_win.cc(123)] NtOpenThread: Foi especificado um identificador de cliente inválido. (0xc000000b)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/110355.712:ERROR:exception_snapshot_win.cc(99)] thread ID 4184 not found in process
+[1115/110355.713:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[1115/223107.879:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/223107.943:ERROR:exception_snapshot_win.cc(99)] thread ID 2068 not found in process
+[1115/223107.943:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[1115/224206.546:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1115/225546.883:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1115/225546.887:ERROR:exception_snapshot_win.cc(99)] thread ID 5060 not found in process
+[1115/225546.887:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
